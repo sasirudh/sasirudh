@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sasirudh Ponneri Balaji 👋</h1>
 
-<h3 align="center">Graduate Data Scientist & Data Analyst · MSc Data Science & AI @ University College Cork 🇮🇪</h3>
+<h3 align="center">Graduate Data Scientist & Data Analyst · ML & AI · MSc Data Science & AI @ University College Cork 🇮🇪</h3>
 
 <p align="center"><i>I spend 80% of my time cleaning data and 20% wondering why my validation loss is doing a kickflip.</i></p>
 
@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I turn messy, real-world data into forecasts and decisions a business can act on. My work sits where **machine learning, statistics and business impact** meet: demand forecasting, causal inference and anomaly detection.
+I turn messy, real-world data into forecasts and decisions a business can act on. My work sits where **machine learning, deep learning, statistics and business impact** meet: demand forecasting, causal inference and anomaly detection, with a focus on taking models from notebook to **deployed, reproducible services (MLOps)**.
 
 * 🎓 **MSc Data Science & AI** at University College Cork (Sept 2026 – Sept 2027)
 * 🏅 **BE Computer Science & Data Science**, Sathyabama Institute of Science and Technology: **CGPA 9.17, First Class Honours**
@@ -39,7 +39,7 @@ Retail sales forecasting that goes one step further: it turns forecast uncertain
 * Converted forecast error into **safety-stock policy at a 95% service level**, cutting safety-stock cost by **69%**
 * Interactive **Tableau** dashboard for stakeholders
 
-`Python` `SQL` `LightGBM` `GRU` `SARIMAX` `Tableau`
+`Python` `SQL` `PyTorch` `LightGBM` `GRU` `SARIMAX` `Tableau`
 
 ### 🧪 [Experimentation & Causal Inference Framework](https://github.com/sasirudh/experimentation-causal-inference)
 A toolkit for answering "did it actually work, and for whom?"
@@ -53,7 +53,7 @@ A toolkit for answering "did it actually work, and for whom?"
 Final-year project and **Indian Patent Application No. 202641025780 A** (published, grant pending).
 * Hybrid **LightGBM + GRU + MLP** detection model with a fuzzy-logic containment layer
 
-`Python` `LightGBM` `GRU` `MLP` `Fuzzy Logic`
+`Python` `PyTorch` `LightGBM` `GRU` `MLP` `Fuzzy Logic`
 
 ---
 
@@ -78,19 +78,41 @@ Final-year project and **Indian Patent Application No. 202641025780 A** (publish
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+
+</p>
+
+**Deep Learning & AI**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Deep_Learning-GRU_%7C_MLP-8A2BE2?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Time_Series-Forecasting-0A7B83?style=flat-square" alt="Time Series Forecasting" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C6BC0?style=flat-square" alt="Computer Vision" />
+</p>
+
+**MLOps & Deployment**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MLOps-Model_Serving_%26_Reproducibility-1F6FEB?style=flat-square" alt="MLOps" />
 </p>
 
 **Machine Learning & Statistics**
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost" />
   <img src="https://img.shields.io/badge/statsmodels-4B5563?style=flat-square" alt="statsmodels" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+**Cloud & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow" />
 </p>
 
 **Data & BI Tools**
@@ -115,7 +137,7 @@ Final-year project and **Indian Patent Application No. 202641025780 A** (publish
 
 ## 📫 Let's Connect
 
-I'm open to **data science, ML and analytics internships and graduate roles** (Ireland / EU). The best way to reach me is by email or LinkedIn.
+I'm open to **data science, ML/AI and analytics internships and graduate roles** (Ireland / EU). The best way to reach me is by email or LinkedIn.
 
 * 📧 [sasirudh1205@gmail.com](mailto:sasirudh1205@gmail.com)
 * 💼 [LinkedIn](www.linkedin.com/in/sasirudh)
